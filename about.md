@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![flutter_corner_marker (2).png]({{site.baseurl}}/images/flutter_corner_marker (2).png)
 
 Some information about you!
 
